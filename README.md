@@ -96,7 +96,6 @@ Auto-scaling:
   Explain the primary components of AWS Auto Scaling.
   What is the difference between horizontal and vertical scaling, and how does Auto Scaling facilitate horizontal scaling?
   How do you determine the desired capacity and minimum capacity for an Auto Scaling group?
-  What is difference between Launch Template and Launch configuration?
   Explain how scaling policies work in Auto Scaling. What are the different types of scaling policies?
   How do you configure triggers and alarms for Auto Scaling policies using Amazon CloudWatch?
   What is a cooldown period in Auto Scaling, and why is it important to configure it correctly?
